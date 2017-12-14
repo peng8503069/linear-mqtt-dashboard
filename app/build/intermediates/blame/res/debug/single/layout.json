@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_hello.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_main_hello.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clolor_picker.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\clolor_picker.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msg_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\msg_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\column_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\column_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\column_header.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\column_header.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_name_edit.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\tab_name_edit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_tab.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\select_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_file.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_open_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\tab_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_demo.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_map_demo.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_value_send_dialog.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\new_value_send_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_list.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\wifi_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pass.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\dialog_pass.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_widget.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_widget.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_scan.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_map_scan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_compare.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\layout_compare.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\board_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\board_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertbutton.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_list.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\item_wifi_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\chat_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\layout_alertview_alert.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_layout.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\class_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabs.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_tabs.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_alertheader.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\include_alertheader.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drag_item_recycler_view.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.github.woxthebox\\draglistview\\1.2.8\\res\\layout\\drag_item_recycler_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connection.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\activity_connection.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_vertical.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\layout\\simple_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_horizontal.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\alertview\\1.0.2\\res\\layout\\layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

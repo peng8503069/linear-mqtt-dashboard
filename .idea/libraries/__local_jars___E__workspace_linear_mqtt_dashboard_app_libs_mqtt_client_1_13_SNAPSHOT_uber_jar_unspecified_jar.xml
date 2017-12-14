@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:E.\workspace\linear-mqtt-dashboard\app\libs\mqtt-client-1.13-SNAPSHOT-uber.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/mqtt-client-1.13-SNAPSHOT-uber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

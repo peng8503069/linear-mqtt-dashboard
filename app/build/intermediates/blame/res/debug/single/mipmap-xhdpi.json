@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ap_lock_ok.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-xhdpi\\ap_lock_ok.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ap_lock_weak.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-xhdpi\\ap_lock_weak.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ap_lock_max.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-xhdpi\\ap_lock_max.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tabs_editor.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\tabs_editor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_editor.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\options_editor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\menu_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\widget.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\widget.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_board.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\menu_board.xml"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

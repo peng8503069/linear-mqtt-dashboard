@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/input_text"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_rectangle_with_stroke_dash_pass"
+        android:textColor="@color/textColor_alert_msg"
+        android:textColorHint="#5DBFE8"
+        android:hint="    请在此输入管理员密码"/>
+
+</LinearLayout>

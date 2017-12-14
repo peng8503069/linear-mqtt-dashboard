@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_75a2136e581a2042f82cbe1261363baaa1731daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_a5b8c4f00e667ee41f51ee0e82abe531e01a54c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.lusfold.spinnerloading\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3d16667ac2661cff10a1f7fb726340a32e5d037">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.lusfold.spinnerloading-library-1.0.0_756189f9fba08db91f53aef6f327052049432a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_0e5a3e0ff1fd8debdb9f65bdd0fbac8d8863db0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.bigkoo\alertview\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f90a2a51eda3f06792b9bae9de735c0a9102d0e">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.bigkoo-alertview-1.0.2_51238b5de8b03622721349cc847066f2007bb412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_28809d9b945e5693f4a1f3438b66722d99273022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e7023949a28bf85cd6cd8e3502445adc8ecbc66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.github.woxthebox\draglistview\1.2.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0b1c8be5f389e8468611dc32fb2a953a9624c99">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.github.woxthebox-draglistview-1.2.8_8623aad8b9bcba85143ba4d8bd8265ebc45401ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_67c8614ffa5713cbd94a2a7ec848386ffcef04d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\libs\mqtt-client-1.13-SNAPSHOT-uber.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="baa680464e450dd9ae04aed0205078c1a4fb0dbd">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\mqtt-client-1.13-SNAPSHOT-uber_12b2a0f0d64f303fc525e9a75fc209d0f25bdaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_b5e4cf5d2039dfe1b0523ddd71ffe51b387f6187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1bd5f7dc7815fd85b06bbd9a90338a556b9244dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_5b5900c819db2b957e34ad06946c4a3c11489239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_80c1bbf76870292f9ae26797c06c9cecf5261958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupengcheng\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.5.0\bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a\okio-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb7d4d96e780e8ef4f275c7d8dd3ef2883ddf99a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\okio-1.5.0_01874cbbe484b6ef99dfb659e2f380c75664a746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_998fcab8bd2b3646aec8c6521aea460d195fe2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_2b6879f84663f9cb6a768e27c5df9d72f9599243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\libs\fastjson-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3cd06ff3f21c8cf487c241ed145154fbae6b4e2">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\fastjson-1.2.2_cbed1121a78777b29a77512ba7f009118f7201b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_dabf6cd2ec208def7850b93532653ac3f22a66bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.squareup.duktape\duktape-android\0.9.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d26cfea56ebdb8e66e97739b7172d0243316bfcb">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.squareup.duktape-duktape-android-0.9.5_f5f29aa0408f3b540debb8f6bbb9cde1a81f36e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_6f683039bb3ffff7b7413f20654080f6cc91313e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_feb2f69a4857ce0c65e513eb3ce1231564f58d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupengcheng\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\gson-2.8.0_9f541fc88c7060638428500630f77e15c1031343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_1e193ba5e859c9f25c67a38eeac8d1db63c3045c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18e3777df86177870625dce816292aecc871dc43">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.1_693ea562cc9e02962e79e950fcd742c20b2b7f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_49a325749b7905e8c67b54baa0a863a774bc623d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_e19987c5b48147033456a8d0ae491c1503267d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_51c1b2e138ff3de325a42a6333fb67abb8c78ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupengcheng\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\workspace\linear-mqtt-dashboard\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_c40b16ffca94a2bcfdffe494a71606c94b515314.jar" />
+    </item>
+
+</items>

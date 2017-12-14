@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\chat_background.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\chat_background.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\erwei.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\erwei.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\chat_robot.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\chat_robot.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\chat_background_police_update.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\chat_background_police_update.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\chat_background_police.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\chat_background_police.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\message_left.9.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\message_left.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\background.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\message_right.9.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\message_right.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\chat_man.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\chat_man.png"
+    },
+    {
+        "merged": "E:\\workspace\\linear-mqtt-dashboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\send.png",
+        "source": "E:\\workspace\\linear-mqtt-dashboard\\app\\src\\main\\res\\mipmap-hdpi\\send.png"
+    }
+]
